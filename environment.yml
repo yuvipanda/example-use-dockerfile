@@ -2,7 +2,7 @@ dependencies:
 - nodejs==15.*
 - python==3.10.*
 
-# data8
+- jupyterlab
 - jupyterhub-singleuser>3.0<4.0
 - matplotlib
 - ipympl
