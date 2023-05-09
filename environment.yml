@@ -16,3 +16,4 @@ dependencies:
   - folium==0.12.1
   - okpy==1.18.1
   - datascience==0.17.0
+  - otter-grader
