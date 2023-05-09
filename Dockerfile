@@ -59,3 +59,5 @@ RUN mamba env update -p ${CONDA_DIR} -f /tmp/environment.yml && mamba clean -afy
 EXPOSE 8888
 
 ENTRYPOINT ["tini", "--"]
+
+COPY image-tests image-tests
