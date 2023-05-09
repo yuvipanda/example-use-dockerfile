@@ -3,7 +3,7 @@ dependencies:
 - python==3.10.*
 
 - jupyterlab
-- jupyterhub-singleuser>3.0<4.0
+- jupyterhub-singleuser>3.0,<4.0
 - matplotlib
 - ipympl
 - pandas
